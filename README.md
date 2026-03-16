@@ -13,7 +13,6 @@ This project analyzes what factors predict success in UFC fighters using data sc
 ## 📁 Files in this Repository
 - `UFC_Fighter_Success_Analysis.ipynb` - Main Jupyter notebook with complete analysis
 - `UFC_Fighters_Statistics.csv` - Dataset used for analysis
-- `15024.pdf` - Final project report
 
 ## 📈 Key Findings
 - Technical skills are 3x more important than physical attributes
